@@ -20,9 +20,7 @@ body,
   --color-primary: #98141c;
   --color-secondary: #e9d9c9;
   /* --color-body: #fff7fc; */
-  --color-body: #DBAFA0;
- 
-
+  --color-body: #dbafa0;
 }
 
 .main-page {
@@ -60,6 +58,9 @@ body,
   justify-content: space-between;
   align-items: center;
   gap: 3rem;
+  position: sticky;
+  top: 0;
+  left: 0;
 }
 
 .search-items a {

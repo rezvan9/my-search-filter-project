@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Laptop product",
+      "class": "laptop",
+      "price": 999.99,
+      "image": "./images/laptop.webp"
+    },
+    {
+      "id": 2,
+      "title": "Laptop product",
+      "class": "laptop",
+      "price": 1250.99,
+      "image": "./images/laptop-2.webp"
+    },
+    {
+      "id": 3,
+      "title": "Laptop product",
+      "class": "laptop",
+      "price": 1799.99,
+      "image": "./images/laptop-3.webp"
+    },
+    {
+      "id": 4,
+      "title": "Iphone product",
+      "class": "iphone",
+      "price": 1499.99,
+      "image": "./images/iphone.webp"
+    },
+    {
+      "id": 5,
+      "title": "Iphone product",
+      "class": "iphone",
+      "price": 1199.99,
+      "image": "./images/iphone-2.webp"
+    },
+    {
+      "id": 6,
+      "title": "Watch product",
+      "class": "watch",
+      "price": 1299.99,
+      "image": "./images/watch.webp"
+    },
+    {
+      "id": 7,
+      "title": "Watch product",
+      "class": "watch",
+      "price": 942.99,
+      "image": "./images/watch-2.webp"
+    },
+    {
+      "id": 8,
+      "title": "Sofa product",
+      "class": "furniture",
+      "price": 824.99,
+      "image": "./images/sofa.webp"
+    },
+    {
+      "id": 9,
+      "title": "Sofa product",
+      "class": "furniture",
+      "price": 924.99,
+      "image": "./images/sofa-2.webp"
+    },
+    {
+      "id": 10,
+      "title": "Chair product",
+      "class": "furniture",
+      "price": 424.99,
+      "image": "./images/chair.webp"
+    },
+    {
+      "id": 11,
+      "title": "Chair product",
+      "class": "furniture",
+      "price": 624.99,
+      "image": "./images/chair-2.webp"
+    },
+    {
+      "id": 12,
+      "title": "Blush product",
+      "class": "beauty",
+      "price": 24.99,
+      "image": "./images/blush.webp"
+    },
+    {
+      "id": 13,
+      "title": "Brush product",
+      "class": "beauty",
+      "price": 34.99,
+      "image": "./images/brush.webp"
+    },
+    {
+      "id": 14,
+      "title": "Primer product",
+      "class": "beauty",
+      "price": 44.99,
+      "image": "./images/primer.webp"
+    }
+  ]
+}

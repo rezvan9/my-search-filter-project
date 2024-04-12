@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/507000d472.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://unpkg.com/axios@1.6.7/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+    <title>search & filter</title>
+  </head>
+  <body>
+    <section class="main-page">
+      <aside class="sidebar">
+        <form>
+          <input
+            type="search"
+            class="search-box"
+            placeholder="search your item"
+          />
+        </form>
+        <div class="search-items">
+          <a href="#" class="btn" data-filter="">All</a>
+          <a href="#" class="btn" data-filter="Laptop">Laptop</a>
+          <a href="#" class="btn" data-filter="Phone">Phone</a>
+          <a href="#" class="btn" data-filter="Watch">Watch</a>
+          <a href="#" class="btn" data-filter="Furniture">Furniture</a>
+          <a href="#" class="btn" data-filter="Beauty">Beauty</a>
+        </div>
+      </aside>
+      <section class="product-section">
+        <div class="container">
+          <!-- <div class="product">
+            <img src="./images/blush.webp" alt="blush" />
+            <div class="product__details">
+              <span class="product__price">10.00$</span>
+              <span class="product__name">Pink Blush</span>
+            </div>
+          </div> --> 
+        </div>
+      </section>
+    </section>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
